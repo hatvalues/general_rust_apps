@@ -1,5 +1,6 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# General Library Codes
+
+This repo is works in progress. Anything really useful will be moved to its own repo.
 
 ## References
 
